@@ -7,7 +7,28 @@ namespace Calismalar
     {
         static void Main(string[] args)
         {
-
+           Trie trie = new Trie();
+            trie.Insert("app");
+            trie.Insert("apple");
+            trie.Insert("bear");
+            trie.Insert("add");
+            trie.Insert("jam");
+            trie.Insert("rental");
+            Console.WriteLine(trie.Search("abc"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.Search("ab"));
+            Console.WriteLine(trie.StartsWith("app"));
+            Console.WriteLine(trie.StartsWith("ad"));
+            Console.WriteLine(trie.StartsWith("applepie"));
+            Console.WriteLine(trie.StartsWith("rest"));
+            Console.WriteLine(trie.StartsWith("jan"));
+            Console.WriteLine(trie.StartsWith("rent"));
+            Console.WriteLine(trie.StartsWith("bear"));
+            Console.WriteLine(trie.StartsWith("jam"));
         }
 
         public void Question1()

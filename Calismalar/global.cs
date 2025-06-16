@@ -7,6 +7,7 @@ global using MyHashMap;
 global using MyHashSet;
 global using MyStack;
 global using RomanToInt;
+global using ImplementTrie;
 
 namespace global
 {
