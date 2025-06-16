@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calismalar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aa3e068a97ed61b89385a5f6d0a04e0ff152dd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calismalar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calismalar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

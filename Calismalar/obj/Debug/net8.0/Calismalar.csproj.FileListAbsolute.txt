@@ -12,3 +12,4 @@ D:\Burak TEKE\C# denemeleri\LeetCode Çalışmaları\Calismalar\Calismalar\obj\D
 D:\Burak TEKE\C# denemeleri\LeetCode Çalışmaları\Calismalar\Calismalar\obj\Debug\net8.0\Calismalar.pdb
 D:\Burak TEKE\C# denemeleri\LeetCode Çalışmaları\Calismalar\Calismalar\obj\Debug\net8.0\Calismalar.genruntimeconfig.cache
 D:\Burak TEKE\C# denemeleri\LeetCode Çalışmaları\Calismalar\Calismalar\obj\Debug\net8.0\ref\Calismalar.dll
+D:\Burak TEKE\C# denemeleri\LeetCode Çalışmaları\Calismalar\Calismalar\obj\Debug\net8.0\Calismalar.sourcelink.json
